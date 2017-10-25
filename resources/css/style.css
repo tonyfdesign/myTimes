@@ -1,0 +1,62 @@
+
+#header {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px black solid;
+  height: 100px;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  /**/
+  padding-bottom: 10px;
+  position: fixed;
+  width: 100%;
+  background-color: white;
+}
+
+#logo {
+  /* border: 1px black solid; */
+  height: 100px;
+  width: 200px;
+}
+
+#logo h1 {
+  position: absolute;
+  font-size: 12px;
+  color: MediumAquamarine;
+  margin: 45px 10px 10px 110px;
+}
+
+#nav {
+  /* border: 1px black solid; */
+  margin: auto 0;
+}
+
+#nav a {
+  color: black;
+}
+
+#header ul {
+  padding-right: 75px;
+}
+
+#header li {
+  display: inline-block;
+  padding: 0 15px;
+}
+
+p {
+  color: red;
+
+}
+
+img {
+  float:left;
+  margin: 25px;
+}
+
+.wrapper {
+  background: 444;
+  max-width: 900px
+  margin: 0 auto;
+}
