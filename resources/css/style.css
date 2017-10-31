@@ -170,7 +170,8 @@ DIVs with image backgrounds
     background-color: WhiteSmoke;
     width: auto;
     padding: 15px 5px;
-       justify-content: center;
+    justify-content: center;
+    border-bottom: 1px black solid;
 }
 
 .news-bites h3 {
